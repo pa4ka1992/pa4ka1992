@@ -50,6 +50,7 @@
       <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="node-js" width="55" height="55"/>
       <img src="https://www.svgrepo.com/show/342225/socket-io.svg" alt="socket-io" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="mongodb" width="45" height="55"/>
 </p>
 
 <p align="center">
@@ -58,11 +59,11 @@
  
  <p align="center">
       <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="GIT" width="55" height="55"/>
-      <img src="https://www.svgrepo.com/show/373513/codecov.svg" alt="codecov" width="55" height="55"/> 
       <img src="https://www.svgrepo.com/show/354463/trello.svg" alt="trello" width="55" height="55"/>
       <img src="https://www.svgrepo.com/show/373587/eslint.svg" alt="eslint" width="60" height="60"/>
       <img src="https://www.svgrepo.com/show/354552/webpack.svg" alt="webpack" width="60" height="60"/>
       <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vite" width="60" height="60"/>
+      <img src="https://www.svgrepo.com/show/353659/docker-icon.svg" alt="vite" width="60" height="60"/>
 </p>
 
 <p align="center">

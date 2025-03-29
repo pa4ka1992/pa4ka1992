@@ -9,22 +9,6 @@
 <a href="https://t.me/pa4ka1992"><img align="center" alt="Buy me a Coffee" width="30px" src="https://www.svgrepo.com/show/354443/telegram.svg" /></a>
 </p>
 
-<p align="center" color="red">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-  <p align="center">
-    - 🏦 I'm Frontend developer curretly looking for a job
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </p>
-    <p align="center">
-     - 💻 I use daily: **.js, **.jsx, **.vue
-  </p>
-  <p align="center">
-     - 💬 Talk to me about crossfit, music, programming
-  </p>
-    <p align="center">
-     - ⚡ Fun fact: To be brilliant at one thing, you have to be an absolute fool at everything else.
-  </p>
-</p>
 <p align="center">
       <img src="https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=2000" alt="JS" height="300"/>
 </p>
